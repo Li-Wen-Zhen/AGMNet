@@ -1,1 +1,1 @@
-# AGM2Net
+# AGMNet
